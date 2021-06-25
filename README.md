@@ -9,8 +9,8 @@
 <p>I'm a beginner in programming 🚀 Interested in technology, arts, science and sports.</p>
 <p align="left">Come on, let's get connected 🌐 ⤵️ </p>
 
-<a href="mailto:macacoserio@protonmail.com" alt="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:johnny@gdoz.net" /></a>
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/johnnyjoe0408)
+<a href="mailto:macacoserio@protonmail.com" alt="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:macacoserio@protonmail.com" /></a>
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/PWbrVYXM)
 [![GitHub](https://img.shields.io/badge/Github-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/MacacoSerio)
 
 <br>
